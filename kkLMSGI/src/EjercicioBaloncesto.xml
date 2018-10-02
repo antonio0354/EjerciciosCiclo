@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<equipo nombre="Basket Lucena">
+	<plantilla Categoria="Cadete">
+		<jugador nombre="Alfonso..." dorsal="12"/>
+		<jugador nombre="Juan..." dorsal="8"/>
+		<jugador nombre="Rodrigo..." dorsal="5"/>
+		<jugador nombre="Carlos..." dorsal="4"/>
+		<jugador nombre="Jesús..." dorsal="2"/>
+	</plantilla>
+	<plantilla Categoria="Alevín">
+		<jugador nombre="Fulanito..." dorsal="99"/>
+		<jugador nombre="Jaime..." dorsal="25"/>
+		<jugador nombre="Antonio..." dorsal="24"/>
+		<jugador nombre="Rafael..." dorsal="9"/>
+		<jugador nombre="Javier..." dorsal="8"/>
+	</plantilla>
+	<plantilla Categoria="Juvenil">
+		<jugador nombre="Alberto..." dorsal="7"/>
+		<jugador nombre="Ismael..." dorsal="96"/>
+		<jugador nombre="Sergio..." dorsal="24"/>
+		<jugador nombre="Francisco..." dorsal="8"/>
+		<jugador nombre="José..." dorsal="5"/>
+	</plantilla>
+</equipo>

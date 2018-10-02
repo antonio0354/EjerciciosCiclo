@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<apartamento situado="Madrid">
+	<habitación persona="Sergio">
+		<mueble nombre="Escritorio" utilidad="Estudiar" color="Marrón"/>
+		<mueble nombre="Armario" utilidad="Guardar ropa" color="Amarillo"/>
+		<mueble nombre="Cama" utilidad="Dormir" color="Amarillo"/>
+		<mueble nombre="Cómoda" utilidad="Dejar cosas" color="Granate"/>
+		<mueble nombre="Estantería" utilidad="Dejar libros" color="Blanco"/>
+	</habitación>
+</apartamento>

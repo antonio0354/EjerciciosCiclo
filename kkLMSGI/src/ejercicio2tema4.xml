@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE correosElectronicos SYSTEM "dtdejercicio2tema4.dtd">
+	
+
+<correosElectronicos>
+	<correo>
+		<destinatario><para>José</para></destinatario>
+		<destinatario><cc>Antonio</cc></destinatario>
+		<destinatario><cc>Javier</cc></destinatario>
+		<asunto>yieee</asunto>
+		<cuerpo>hola que ase </cuerpo>
+		<archivos>
+			<nombre>ei.jpg</nombre>
+			<type>image/jpeg</type>
+			<longitud>8596KB</longitud>
+		</archivos>
+	</correo>
+</correosElectronicos>

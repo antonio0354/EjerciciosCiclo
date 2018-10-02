@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE placas SYSTEM "dtdejericio1tema4.dtd">
+
+<placas>
+	<placa>
+		<microprocesador>hola </microprocesador>
+		<memoria> 64GB</memoria>
+		<memoria> 64GB</memoria>
+		<modelo>AMD </modelo>
+		<fabricante><Asus/></fabricante>
+	</placa>
+	<placa>
+		<microprocesador>adios </microprocesador>
+		<memoria> 32GB</memoria>
+		<modelo>AMD </modelo>
+		<fabricante><Intel/></fabricante>
+	</placa>
+</placas>
+	
+
+

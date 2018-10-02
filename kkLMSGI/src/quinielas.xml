@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiniela>
+  <resultado>
+  	<local>Ciudad de Lucena</local>
+  	<visitante>Egabrense</visitante>
+  	<marcador>X</marcador>
+  </resultado>
+   <resultado>
+  	<local>Córdoba</local>
+  	<visitante>Juventus</visitante>
+  	<marcador>1</marcador>  <!-- El partido fue muy disputado -->
+  </resultado>
+</quiniela>

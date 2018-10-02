@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Película nombre="La Movida" director="Santiago Guzmán">
+	<Reparto>
+		<Protagonistas>
+			<Actor Personaje="Francisco" nombre_real="Antonio" edad="34"/>
+			<Actriz Personaje= "Manuela" nombre_real="Antonia" edad="21"/>
+		</Protagonistas>
+		<Antagonistas>
+			<Actor Personaje="Roberto" nombre_real="Pascual" edad="45"/>
+			<Actor Personaje="José" nombre_real="José" edad="23"/>
+		</Antagonistas>
+		<Secundarios>
+			<Actor Personaje="Jesús" nombre_real="Jaime" edad="56"/>
+			<Actriz Personaje="Josefina" nombre_real="María" edad="28"/>
+		</Secundarios>
+		<Extras>
+			<Actor Personaje="Javier" nombre_real="Ismael" edad="18"/>
+			<Actor Personaje="Sergio" nombre_real="Alberto" edad="19"/>
+			<Actriz Personaje="Laura" nombre_real="MªLuisa" edad="28"/>
+		</Extras>
+	</Reparto>
+</Película>

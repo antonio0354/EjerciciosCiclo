@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<factura>
+	<oficio tipo="Fontanero" nombre="Roberto Martínez" telefono="654895123">
+		<lugar ciudad="Madrid">
+			<trabajo tipo="Reemplazo de tubería" local="Casa" presupuesto="50€"/>
+			<trabajo tipo="Inspección de tubería" local="Apartamento" presupuesto="30€"/>
+			<trabajo tipo="Problema con la tubería" local="Apartamento" presupuesto="60€"/>
+			<trabajo tipo="Inspección de tubería" local="Apartamento" presupuesto="57€"/>
+		</lugar>
+		<lugar ciudad="Albacete">
+			<trabajo tipo="Reemplazo de tubería" local="Casa" presupuesto="69€"/>
+			<trabajo tipo="Inspección de tubería" local="Dúplex" presupuesto="85€"/>
+			<trabajo tipo="Problema con la tubería" local="Apartamento" presupuesto="47€"/>
+			<trabajo tipo="Inspección de tubería" local="Casa" presupuesto="68€"/>
+		</lugar>
+		<lugar ciudad="Ciudad Real">
+			<trabajo tipo="Reemplazo de tubería" local="Residencia" presupuesto="45€"/>
+			<trabajo tipo="Inspección de tubería" local="Hospital" presupuesto="32€"/>
+			<trabajo tipo="Problema con la tubería" local="Instituto" presupuesto="74€"/>
+			<trabajo tipo="Inspección de tubería" local="Casa" presupuesto="87€"/>
+		</lugar>
+	</oficio>
+</factura>

@@ -1,0 +1,12 @@
+	<!ELEMENT correosElectronicos (correo*)>
+	<!ELEMENT correo (destinatario+,asunto,cuerpo,archivos*)>
+	<!ELEMENT destinatario (para | cc | cco )>
+	<!ELEMENT asunto (#PCDATA)>
+	<!ELEMENT cuerpo (#PCDATA)>
+	<!ELEMENT archivos (nombre,type,longitud)>
+	<!ELEMENT para (#PCDATA)>
+	<!ELEMENT cc (#PCDATA)>
+	<!ELEMENT cco (#PCDATA)>
+	<!ELEMENT nombre (#PCDATA)>
+	<!ELEMENT type (#PCDATA)>
+	<!ELEMENT longitud (#PCDATA)>
